@@ -58,8 +58,8 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃TECH_V1 SESSION IS 
-┃SUCCESSFULLY
+┃TECH_V1 TA RESSUE 
+┃TA SESSION ENJOY FRR
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -72,7 +72,7 @@ Wanna talk to me?👉 https://t.me/igwe tech👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 papa igwe*
 
-_Don't Forget To Give Star To My Repo_`
+n'oublie pas de me faire un dépôt_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
