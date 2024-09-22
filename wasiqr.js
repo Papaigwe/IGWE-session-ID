@@ -60,8 +60,8 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃TECH_V1 SESSION IS 
-┃SUCCESSFULLY
+┃TECH_V1 TA RESSUS TA 
+SESSION FRRR ENJOY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -75,7 +75,7 @@ Wanna talk to me?👉 https://t.me/060338758 👈
 ©*2024-2099 papa igwe*
 _____________________________________
 	
-_Don't Forget To Give Star To My Repo_`
+n'oublie pas de me faire un dépôt 24160338758_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
